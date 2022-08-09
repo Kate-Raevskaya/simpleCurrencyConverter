@@ -1,0 +1,17 @@
+type: remote_edu
+custom_name: Loop it!
+files:
+- name: main.js
+  visible: true
+  text: //Write your code here
+  learner_created: false
+- name: tests.py
+  visible: false
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/17900#comment
+check_profile: hyperskill_node_javascript
+status: Solved
+feedback:
+  message: <html>Correct solution</html>
+  time: Sat, 06 Aug 2022 20:52:04 UTC
+record: -1
